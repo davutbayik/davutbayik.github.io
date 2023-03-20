@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.778eeed7.css",
-    "main.js": "/static/js/main.2e6e6c7f.js",
+    "main.js": "/static/js/main.41a7d8dc.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
     "static/media/davutbayik.png": "/static/media/davutbayik.7805162ea92d8518542a.png",
     "static/media/DAVUT_BAYIK_CV.pdf": "/static/media/DAVUT_BAYIK_CV.f23c9c82d836a6b88ea0.pdf",
     "index.html": "/index.html",
     "main.778eeed7.css.map": "/static/css/main.778eeed7.css.map",
-    "main.2e6e6c7f.js.map": "/static/js/main.2e6e6c7f.js.map",
+    "main.41a7d8dc.js.map": "/static/js/main.41a7d8dc.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.778eeed7.css",
-    "static/js/main.2e6e6c7f.js"
+    "static/js/main.41a7d8dc.js"
   ]
 }
